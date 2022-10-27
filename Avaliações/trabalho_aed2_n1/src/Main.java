@@ -26,7 +26,7 @@ public class Main { //Classe principal
         }
 
         /*
-        Neste bloco While eu manipulo o baralho principal, onde se a quantidade do baralho for maior do que 1 eu realizo as seguintes mudanças:
+        Neste bloco While eu manipulo o baralho principal, onde se a quantidade de cartas no baralho for maior do que 1 eu realizo as seguintes mudanças:
             Linha 34: Removo a carta do topo e a adiciono as cartas descartadas.
             Linha 35: Removo a carta que agora esta no topo e adiciono ao fim do baralho.
          */
